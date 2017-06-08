@@ -1,7 +1,7 @@
 # GAcareers
 A guide to careers support
 
-#Career Support Guide
+# Career Support Guide
 
 Congratulations on being accepted to the Web Development Immersive course. In this guide, will be everything that we will cover over the next 12 weeks and beyond. The Careers Outcome team is excited to work with you on your journey through the course and into a career.
 

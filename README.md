@@ -7,9 +7,10 @@ Congratulations on being accepted to the Web Development Immersive course. In th
 
 The Careers Team will help you build a foundation for your post GA job search. We will provide you with the tools are best practices.
 
-Career Week runs from Monday to Friday the week after Graduation. Each day, Career Week starts at 10:00am and ends at 5:00pm with lunch running from 12:30 pm - 2:00 pm. Yes, we still participate in 2:00 pm standups.
-
 ### Careers Classes and Expectations
+
+Career Classes run each Friday from 10am - 11am for the first 10 weeks. Monday to Friday the week after Graduation. Each day, Career Week starts at 10:00am and ends at 5:00pm with lunch running from 12:30 pm - 2:00 pm. Yes, we still participate in 2:00 pm standups.
+
 If learning to code at DBC is like being in freefall, Career Week is like finally pulling the ripcord on your parachute. Coming out of the program and moving into a slower, less structured phase can be jarring.
 
 Your job search is going to feel weird. Lean into it. There are going to be high highs and low lows. The great part is you’re going to go through the extremes together as a cohort. It’s going to be rough, but it’s going to lead to your new career life.

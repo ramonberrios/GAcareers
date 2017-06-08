@@ -1,13 +1,11 @@
 # GAcareers
 A guide to careers support
 
-#Career Week Phase Guide
+#Career Support Guide
 
-Congratulations on graduating the program and welcome to Career Week! It’s always impressive to see the vast array of projects presented on graduation day. Our team is excited to work with you on your career transition and jumpstart your job search.
+Congratulations on being accepted to the Web Development Immersive course. In this guide, will be everything that we will cover over the next 12 weeks and beyond. The Careers Outcome team is excited to work with you on your journey through the course and into a career.
 
-Career Week will help you build a foundation for your post-DBC job search. The tools we cover throughout the week are best practices. There is no silver bullet to job searching, but we share tactics that graduates have found most effective.
-
-For Career Week to be most effective, you are expected to attend all Career Week workshops and participate actively in all activities.This is also something you've agreed to via the <a href="https://www.hellosign.com/s/b4066212">Graduate Agreement form</a>
+The Careers Team will help you build a foundation for your post GA job search. We will provide you with the tools are best practices.
 
 A few things you’ll be accountable for completing: Graduate Information Form (pre-career week), the Career Week Feedback Form (after Career Week), and the Employment Verification Form (post-employment).
 

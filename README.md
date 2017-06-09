@@ -11,10 +11,10 @@ The Careers Team will help you build a foundation for your post GA job search. W
 
 Career Classes run each Friday from 10am - 11:30am for the first 10 weeks. Then week 11-12 (after graduation) on Fridays from 10am - 3pm.
 
-##Prep Work
-[This activity](./Resources/WCIYP) will be the first workshop Monday morning. Be sure to complete the Petal Exercise from Chapter 7 over the weekend leading up to career week.
+### Prep Work
+Before we can begin we need to make sure we have the basics set up 
 
-## Activities
+### Activities
 
 * [Chapter 7](./Resources/WCIYP/Ch 7 - What Color Is Your Parachute 2015.pdf)
 * [Printable Petal Exercise](./Resources/WCIYP/Blank Flower Diagram.pdf)

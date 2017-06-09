@@ -14,7 +14,7 @@ Career Classes run each Friday from 10am - 11:30am for the first 10 weeks. Then 
 ##Prep Work
 [This activity](./Resources/WCIYP) will be the first workshop Monday morning. Be sure to complete the Petal Exercise from Chapter 7 over the weekend leading up to career week.
 
-###Activities
+## Activities
 
 * [Chapter 7](./Resources/WCIYP/Ch 7 - What Color Is Your Parachute 2015.pdf)
 * [Printable Petal Exercise](./Resources/WCIYP/Blank Flower Diagram.pdf)

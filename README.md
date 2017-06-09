@@ -1,26 +1,15 @@
 # GAcareers
 A guide to careers support
 
-# Career Support Guide - Web Development Immersivee 
+# Career Support Guide - Web Development Immersive
 
 Congratulations on being accepted to the Web Development Immersive course. In this guide, will be everything that we will cover over the next 12 weeks and beyond. The Careers Outcome team is excited to work with you on your journey through the course and into a career.
 
 The Careers Team will help you build a foundation for your post GA job search. We will provide you with the tools are best practices.
 
-### Careers Classes and Expectations
+### Careers Classes Schedule
 
-Career Classes run each Friday from 10am - 11am for the first 10 weeks. Monday to Friday the week after Graduation. Each day, Career Week starts at 10:00am and ends at 5:00pm with lunch running from 12:30 pm - 2:00 pm. Yes, we still participate in 2:00 pm standups.
-
-If learning to code at DBC is like being in freefall, Career Week is like finally pulling the ripcord on your parachute. Coming out of the program and moving into a slower, less structured phase can be jarring.
-
-Your job search is going to feel weird. Lean into it. There are going to be high highs and low lows. The great part is you’re going to go through the extremes together as a cohort. It’s going to be rough, but it’s going to lead to your new career life.
-
-It may seem weird to compete with your cohort mates for jobs. Although, the cohorts that do the best are the ones who lean on each other and just acknowledge the awkwardness of competition. Your ability to support one another will help smooth out the highs and lows of a prolonged search. After the DBC experience, it is easy to feel isolated and uncertain.
-
-Stay active with your coding projects during the job! You have learned a lot over the last 9-15 weeks onsite, but it’s all short-term memory. Use it or you'll lose it! You will need to balance your job search with growing as a developer. We'll be focusing on how to manage your time to balance everything!
-
-Your job search is probably going to take longer than you think. The broader and more flexible your expectations are, the easier your job search will be. Don’t rule out internships and apprenticeships. Many people turn down three month internships, only to continue job searching for three months when they could have been coding every day and searching too.
-Graduating from DBC is tough, but finding a job is even tougher. Career Week provides tools that help grads search smarter, not harder. So breathe, get support, and get ready to lean in!
+Career Classes run each Friday from 10am - 11:30am for the first 10 weeks. Then week 11-12 (after graduation) on Fridays from 10am - 3pm.
 
 ##Prep Work
 [This activity](./Resources/WCIYP) will be the first workshop Monday morning. Be sure to complete the Petal Exercise from Chapter 7 over the weekend leading up to career week.

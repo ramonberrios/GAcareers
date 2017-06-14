@@ -40,7 +40,7 @@ Before we can begin we need to make sure we have some basics set up. This should
 </table>
 
 
-## Week 1
+## Week1
 
 Welcome to Career Week! I'm excited to kick off this journey with you.
 

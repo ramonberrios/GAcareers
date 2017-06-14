@@ -18,6 +18,27 @@ Before we can begin we need to make sure we have some basics set up. This should
 * Create <a href="https://trello.com/">Trello Account</a>
 * Optional for resume creation. Create <a href="http://creddle.io/">Creddle Account</a>
 
+<table>
+  <tr>
+  <th colspan="6">Quick Reference for Career Weeks</th>
+  </tr>
+
+  <tr>
+  <td><a href="#monday">Week 1</a></a></td>
+  <td><a href="#tuesday">Week 2</a></td>
+  <td><a href="#wednesday">Week 3</a></td>
+  <td><a href="#thursday">Week 4</a></td>
+  <td><a href="#friday">Week 5</a></td>
+  <td><a href="#friday">Week 6</a></td>
+  <td><a href="#friday">Week 7</a></td>
+  <td><a href="#friday">Week 8</a></td>
+  <td><a href="#friday">Week 9</a></td>
+  <td><a href="#friday">Week 10</a></td>
+  <td><a href="#friday">Week 11</a></td>
+  <td><a href="#friday">Week 12</a></td>
+  </tr>
+</table>
+
 ### Activities
 
 * [Chapter 7](./Resources/WCIYP/Ch 7 - What Color Is Your Parachute 2015.pdf)
@@ -36,19 +57,6 @@ Pro tips:
 
 Here's [the schedule](./Resources/Career Week Schedule Jul 24 2015.pdf) for this week.
 
-<table>
-  <tr>
-  <th colspan="6">Quick Reference for Career Week</th>
-  </tr>
-
-  <tr>
-  <td><a href="#monday">Monday</a></a></td>
-  <td><a href="#tuesday">Tuesday</a></td>
-  <td><a href="#wednesday">Wednesday</a></td>
-  <td><a href="#thursday">Thursday</a></td>
-  <td><a href="#friday">Friday</a></td>
-  </tr>
-</table>
 
 ## Monday
 

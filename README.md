@@ -23,6 +23,7 @@ Career Classes run each Friday from 10am - 11:30am for the first 10 weeks. Then 
 Before we can begin we need to make sure we have some basics set up. This should be completed prior to the first class
 * Create <a href="https://github.com/">Github Account</a>
 * Create <a href="https://www.linkedin.com">LinkedIn Account</a>
+* Create <a href="https://www.meetup.com/">Meetup Account</a>
 * Create <a href="https://trello.com/">Trello Account</a>
 * Create <a href="http://creddle.io/">Creddle Account</a> - Optional for resume creation
 
@@ -151,24 +152,23 @@ Understand Career Options - What is out there after I graduate?
 
 ## Week 6
 
-Understand Career Options - What is out there after I graduate?
+Trello Board - Follow-Up/Job Search
 
 ### Activities
 
-* Group discussion on different types of employment options
-* [Guide to understanding Freelance/Contract Roles](./Resume.md)
-* [Video on "Protect yourself as a business owner"](./Resume.md)
-* Understanding different types of compensation and their value
+* Group discussion "How do we build a meaningful connection and track it"
+* Group discussion "I found a company I'm interested in, now what"
+* [Review Sample Trello Board](./Resume.md)
 
 
 ### Prep for Next Week
 
-* Review the online article <a href="https://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process">Using Trello For A Job Search</a>
+* Fill in profile information for your Meetup Account
 
 
 ### Stretch Activities
 
-* fsdsd
+* View video on Impostor Syndrome <a href="https://www.youtube.com/watch?v=1i8ylq4j_EY">Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech</a>
 
 ### Activities
 

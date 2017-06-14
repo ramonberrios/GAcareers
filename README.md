@@ -178,17 +178,59 @@ Meetups, Tech Events, Hackathons, oh my!
 
 * Group Discussion "Which meetups are right for me" - Don't go alone, support each other!
 * [When and how to close the conversation](./Resume.md) - Leave on a high note like George Costanza!!
-* [Review Sample Trello Board](./Resume.md)
+* [Google Chrome Extension - Rapportive](./Resume.md)
 
 
 ### Prep for Next Week
 
-* Fill in profile information for your Meetup Account
+* Locate two linkedin connections to create a mock "outreach" too
 
 
 ### Stretch Activities
 
-* View video on Impostor Syndrome <a href="https://www.youtube.com/watch?v=1i8ylq4j_EY">Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech</a>
+* Sign up and attend 1 Meetup, review attendee list and seek out and connect to 2 attendees during meetup
+* Create business cards for in person networking
+
+## Week 8
+
+Mock Outreach - Let's Connect
+
+### Activities
+
+* Group Discussion "Cold and warm outreach"
+* [Review Sample Cold Outreach](./Resume.md)
+* [Review Sample Warm Outreach](./Resume.md)
+* Create one warm/cold outreach, create one LinkenIn Introduction
+
+
+### Prep for Next Week
+
+* Question - What's your prefered stack? Full, Front/Back End?
+* Question - What specific languages/technologies do you want to work with?
+
+
+## Week 8
+
+Mock Outreach - Let's Connect
+
+### Activities
+
+* Group Discussion "Cold and warm outreach"
+* [Review Sample Cold Outreach](./Resume.md)
+* [Review Sample Warm Outreach](./Resume.md)
+* Create one warm/cold outreach, create one LinkenIn Introduction
+
+
+### Prep for Next Week
+
+* Question - What's your prefered stack? Full, Front/Back End?
+* Question - What specific languages/technologies do you want to work with?
+
+
+### Stretch Activities
+
+* Sign up and attend 1 Meetup, review attendee list and seek out and connect to 2 attendees during meetup
+* Create business cards for in person networking
 
 ### Activities
 

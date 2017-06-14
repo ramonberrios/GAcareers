@@ -52,26 +52,25 @@ Before we can begin we need to make sure we have some basics set up. This should
 
 ## Week 1
 
-Welcome to Career Week! I'm excited to kick off this journey with you.
+Welcome to Career Week! I'm excited to kick off this journey with you. Today we will begin crafting your story, or elevator pitch
 
 ### Activities
 
-* [What's Your Story](./Your_Story.md)
-* [Resume Writing](./Resume.md)
-* [Build Your LinkedIn](./LinkedIn.md)
+* Group discussion on telling your story and the importance of perfecting your first impression
+* [Questions to answer to help craft your story](./Resume.md)
+* [Review Sample Pitch](./LinkedIn.md)
+* [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./LinkedIn.md)
 
 
-### Prep for Tomorrow
+### Prep for Next Week
 
-* Complete your resume.
-* Complete your LinkedIn.
-* Write out your 30 second and two minute elevator pitch.
+* Continue working on your pitch, get comfortable with talking about yourself
+* Have current/old resume for content transfer
 
 
 ### Stretch Activities
 
-* [Personal Sites](./Personal_Site.md)
-* [Prep your Github for Employers](./Resources/github-overview_Josh's Version.pdf)
+* Transfer resume content to creddle.io account or begin working on resume draft
 
 ### Activities
 

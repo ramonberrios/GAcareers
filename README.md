@@ -24,7 +24,7 @@ Before we can begin we need to make sure we have some basics set up. This should
 * Create <a href="https://github.com/">Github Account</a>
 * Create <a href="https://www.linkedin.com">LinkedIn Account</a>
 * Create <a href="https://trello.com/">Trello Account</a>
-* Optional for resume creation. Create <a href="http://creddle.io/">Creddle Account</a>
+* Create <a href="http://creddle.io/">Creddle Account</a> - Optional for resume creation
 
 
 
@@ -35,7 +35,7 @@ Before we can begin we need to make sure we have some basics set up. This should
 
   <tr>
   <td><a href="#week-1">Week 1</a></a></td>
-  <td><a href="#thursday">Week 2</a></td>
+  <td><a href="#week-2">Week 2</a></td>
   <td><a href="#wednesday">Week 3</a></td>
   <td><a href="#thursday">Week 4</a></td>
   <td><a href="#friday">Week 5</a></td>
@@ -71,6 +71,29 @@ Welcome to Career Week! I'm excited to kick off this journey with you. Today we 
 ### Stretch Activities
 
 * Transfer resume content to creddle.io account or begin working on resume draft
+
+## Week 2
+
+Welcome to Career Week! I'm excited to kick off this journey with you. Today we will begin crafting your story, or elevator pitch
+
+### Activities
+
+* Group discussion on telling your story and the importance of perfecting your first impression
+* [Questions to answer to help craft your story](./Resume.md)
+* [Review Sample Pitch](./LinkedIn.md)
+* [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./LinkedIn.md)
+
+
+### Prep for Next Week
+
+* Continue working on your pitch, get comfortable with talking about yourself
+* Have current/old resume for content transfer
+
+
+### Stretch Activities
+
+* Transfer resume content to creddle.io account or begin working on resume draft
+
 
 ### Activities
 

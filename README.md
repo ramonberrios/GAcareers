@@ -9,11 +9,11 @@ The Careers Outcome Team will help you build a foundation for your current and p
 
 ### Contact Information
 
-Ramon Berrios - Career Coach
-Email - ramon.berrios@generalassemb.ly
-Phone - 347-880-4426
-LinkedIn - <a href="https://www.linkedin.com/in/ramonberrios/">Ramon Berrios</a>
-Github - <a href="https://github.com/ramonberrios">ramonberrios</a>
+- Ramon Berrios - Career Coach
+- Email - ramon.berrios@generalassemb.ly
+- Phone - 347-880-4426
+- LinkedIn - <a href="https://www.linkedin.com/in/ramonberrios/">Ramon Berrios</a>
+- Github - <a href="https://github.com/ramonberrios">ramonberrios</a>
 
 ### Careers Classes Schedule
 

@@ -11,10 +11,10 @@ The Careers Outcome Team will help you build a foundation for your current and p
 
 Career Classes run each Friday from 10am - 11:30am for the first 10 weeks. Then week 11-12 (after graduation) on Fridays from 10am - 3pm.
 
-### Prerequisites
-Before we can begin we need to make sure we have some basics set up.
+### Prep Work
+Before we can begin we need to make sure we have some basics set up. This should be completed prior to the first class
 * Create <a href="https://github.com/">Github Account</a>
-* 
+* Create <a href="https://www.linkedin.com">LinkedIn Account</a>
 
 ### Activities
 

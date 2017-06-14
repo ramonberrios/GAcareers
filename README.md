@@ -25,7 +25,7 @@ Before we can begin we need to make sure we have some basics set up. This should
 
   <tr>
   <td><a href="#Week1">Week 1</a></a></td>
-  <td><a href="#Week Two">Week 2</a></td>
+  <td><a href="#Thursday">Week 2</a></td>
   <td><a href="#wednesday">Week 3</a></td>
   <td><a href="#thursday">Week 4</a></td>
   <td><a href="#friday">Week 5</a></td>

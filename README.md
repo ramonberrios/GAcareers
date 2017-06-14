@@ -20,7 +20,7 @@ Before we can begin we need to make sure we have some basics set up. This should
 
 <table>
   <tr>
-  <th colspan="6">Quick Reference for Career Weeks</th>
+  <th colspan="6">Quick Reference for Each Week</th>
   </tr>
 
   <tr>
@@ -38,6 +38,30 @@ Before we can begin we need to make sure we have some basics set up. This should
   <td><a href="#friday">Week 12</a></td>
   </tr>
 </table>
+
+
+## Monday
+
+Welcome to Career Week! I'm excited to kick off this journey with you.
+
+### Activities
+
+* [What's Your Story](./Your_Story.md)
+* [Resume Writing](./Resume.md)
+* [Build Your LinkedIn](./LinkedIn.md)
+
+
+### Prep for Tomorrow
+
+* Complete your resume.
+* Complete your LinkedIn.
+* Write out your 30 second and two minute elevator pitch.
+
+
+### Stretch Activities
+
+* [Personal Sites](./Personal_Site.md)
+* [Prep your Github for Employers](./Resources/github-overview_Josh's Version.pdf)
 
 ### Activities
 

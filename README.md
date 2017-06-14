@@ -15,6 +15,8 @@ Career Classes run each Friday from 10am - 11:30am for the first 10 weeks. Then 
 Before we can begin we need to make sure we have some basics set up. This should be completed prior to the first class
 * Create <a href="https://github.com/">Github Account</a>
 * Create <a href="https://www.linkedin.com">LinkedIn Account</a>
+* Create <a href="https://trello.com/">Trello Account</a>
+* Optional for resume creation. Create <a href="http://creddle.io/">Creddle Account</a>
 
 ### Activities
 

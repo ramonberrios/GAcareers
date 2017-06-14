@@ -170,6 +170,26 @@ Trello Board - Follow-Up/Job Search
 
 * View video on Impostor Syndrome <a href="https://www.youtube.com/watch?v=1i8ylq4j_EY">Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech</a>
 
+## Week 7
+
+Meetups, Tech Events, Hackathons, oh my!
+
+### Activities
+
+* Group Discussion "Which meetups are right for me" - Don't go alone, support each other!
+* [When and how to close the conversation](./Resume.md) - Leave on a high note like George Costanza!!
+* [Review Sample Trello Board](./Resume.md)
+
+
+### Prep for Next Week
+
+* Fill in profile information for your Meetup Account
+
+
+### Stretch Activities
+
+* View video on Impostor Syndrome <a href="https://www.youtube.com/watch?v=1i8ylq4j_EY">Julie Pagano: It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech</a>
+
 ### Activities
 
 * [Chapter 7](./Resources/WCIYP/Ch 7 - What Color Is Your Parachute 2015.pdf)

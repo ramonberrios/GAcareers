@@ -3,16 +3,18 @@ A guide to careers support
 
 # Career Support Guide - Web Development Immersive
 
-Congratulations on being accepted to the Web Development Immersive course. In this guide, will be everything that we will cover over the next 12 weeks and beyond. The Careers Outcome team is excited to work with you on your journey through the course and into a career.
+Congratulations on being accepted to the Web Development Immersive course. In this guide, will be everything that will be covered over the next 12 weeks and beyond. The Careers Outcome Team is excited to work with you on your journey through this course and into your career.
 
-The Careers Team will help you build a foundation for your post GA job search. We will provide you with the tools are best practices.
+The Careers Outcome Team will help you build a foundation for your current and post GA job search. We will provide you with the tools, resources, are best practices.
 
 ### Careers Classes Schedule
 
 Career Classes run each Friday from 10am - 11:30am for the first 10 weeks. Then week 11-12 (after graduation) on Fridays from 10am - 3pm.
 
-### Prep Work
-Before we can begin we need to make sure we have the basics set up 
+### Prerequisites
+Before we can begin we need to make sure we have some basics set up.
+* Create <a href="https://github.com/">Github Account</a>
+* 
 
 ### Activities
 

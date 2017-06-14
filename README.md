@@ -25,7 +25,7 @@ Before we can begin we need to make sure we have some basics set up. This should
 
   <tr>
   <td><a href="#Week1">Week 1</a></a></td>
-  <td><a href="#Week2">Week 2</a></td>
+  <td><a href="#Week Two">Week 2</a></td>
   <td><a href="#wednesday">Week 3</a></td>
   <td><a href="#thursday">Week 4</a></td>
   <td><a href="#friday">Week 5</a></td>
@@ -106,7 +106,7 @@ Welcome to Career Week! I'm excited to kick off this journey with you.
 * [Prep your Github for Employers](./Resources/github-overview_Josh's Version.pdf)
 
 
-## Week2
+## Week Two
 You’ve made it through to day two and hopefully are the proud owner of a shiny, new LinkedIn profile and resume!
 
 Today we'll be doing a lot of reviewing, workshop'ing, and self-guided work. You will be working in pairs and groups throughout the day.

@@ -74,26 +74,84 @@ Welcome to Career Week! I'm excited to kick off this journey with you. Today we 
 
 ## Week 2
 
-Welcome to Career Week! I'm excited to kick off this journey with you. Today we will begin crafting your story, or elevator pitch
+Today we will focus on creating a first draft of your technical resume
 
 ### Activities
 
-* Group discussion on telling your story and the importance of perfecting your first impression
-* [Questions to answer to help craft your story](./Resume.md)
-* [Review Sample Pitch](./LinkedIn.md)
+* Group discussion on componets of your resume - What to put in, what to leave out
+* [Chronological vs. Functional](./Resume.md)
+* [Review Sample Resumes](./LinkedIn.md)
 * [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./LinkedIn.md)
 
 
 ### Prep for Next Week
 
-* Continue working on your pitch, get comfortable with talking about yourself
-* Have current/old resume for content transfer
+* Practice your pitch!
+* Have your LinkedIn account created 
 
 
 ### Stretch Activities
 
-* Transfer resume content to creddle.io account or begin working on resume draft
+* Review former GA students LinkedIn profiles to see how they chose their digital branding to look
 
+## Week 3
+
+Today we will focus on building a robust LinkedIn Profile
+
+### Activities
+
+* Group discussion on Social Media - Digital Branding 
+* [Review Personal Branding Video](./Resume.md) - Group discussion
+* [Adding meaningful connections](./LinkedIn.md)
+* [Review sample LinkedIn Request](./LinkedIn.md)
+
+
+### Prep for Next Week
+
+* Practice your pitch!
+* Continue working on Resume and LinkedIn Profile
+
+## Week 4
+
+Time to practice what we have covered so far
+
+### Activities
+
+* Group recap on Week 1-3. Any tensions? How is the workflow working for you?
+* [Peer to peer Q&A sheet](./Resume.md) - Provide actionable feedback (if any)
+* Group Resume Review - Provide actionable feedback (if any)
+* Group LinkedIn Review - Provide actionable feedback (if any)
+
+
+### Prep for Next Week
+
+* Question - Where do you see yourself directly after graduation?
+
+
+### Stretch Activities
+
+* Create an <a href="https://www.upwork.com/">Upwork Account</a> - Freelance work
+
+## Week 5
+
+Time to practice what we have covered so far
+
+### Activities
+
+* Group recap on Week 1-3. Any tensions? How is the workflow working for you?
+* [Peer to peer Q&A sheet](./Resume.md) - Provide actionable feedback (if any)
+* Group Resume Review - Provide actionable feedback (if any)
+* Group LinkedIn Review - Provide actionable feedback (if any)
+
+
+### Prep for Next Week
+
+* Question - Where do you see yourself directly after graduation?
+
+
+### Stretch Activities
+
+* Create an <a href="https://www.upwork.com/">Upwork Account</a> - Freelance work
 
 ### Activities
 

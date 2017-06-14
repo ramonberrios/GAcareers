@@ -26,6 +26,8 @@ Before we can begin we need to make sure we have some basics set up. This should
 * Create <a href="https://trello.com/">Trello Account</a>
 * Optional for resume creation. Create <a href="http://creddle.io/">Creddle Account</a>
 
+
+
 <table>
   <tr>
   <th colspan="6">Quick Reference for Each Week</th>

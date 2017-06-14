@@ -134,24 +134,41 @@ Time to practice what we have covered so far
 
 ## Week 5
 
-Time to practice what we have covered so far
+Understand Career Options - What is out there after I graduate?
 
 ### Activities
 
-* Group recap on Week 1-3. Any tensions? How is the workflow working for you?
-* [Peer to peer Q&A sheet](./Resume.md) - Provide actionable feedback (if any)
-* Group Resume Review - Provide actionable feedback (if any)
-* Group LinkedIn Review - Provide actionable feedback (if any)
+* Group discussion on different types of employment options
+* [Guide to understanding Freelance/Contract Roles](./Resume.md)
+* [Video on "Protect yourself as a business owner"](./Resume.md)
+* Understanding different types of compensation and their value
 
 
 ### Prep for Next Week
 
-* Question - Where do you see yourself directly after graduation?
+* Review the online article <a href="https://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process">Using Trello For A Job Search</a>
+
+
+## Week 6
+
+Understand Career Options - What is out there after I graduate?
+
+### Activities
+
+* Group discussion on different types of employment options
+* [Guide to understanding Freelance/Contract Roles](./Resume.md)
+* [Video on "Protect yourself as a business owner"](./Resume.md)
+* Understanding different types of compensation and their value
+
+
+### Prep for Next Week
+
+* Review the online article <a href="https://blog.trello.com/using-trello-for-a-job-search-less-stress-more-process">Using Trello For A Job Search</a>
 
 
 ### Stretch Activities
 
-* Create an <a href="https://www.upwork.com/">Upwork Account</a> - Freelance work
+* fsdsd
 
 ### Activities
 

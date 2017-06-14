@@ -24,7 +24,7 @@ Before we can begin we need to make sure we have some basics set up. This should
   </tr>
 
   <tr>
-  <td><a href="#week 1">Week 1</a></a></td>
+  <td><a href="#Week-1">Week 1</a></a></td>
   <td><a href="#thursday">Week 2</a></td>
   <td><a href="#wednesday">Week 3</a></td>
   <td><a href="#thursday">Week 4</a></td>
@@ -40,7 +40,7 @@ Before we can begin we need to make sure we have some basics set up. This should
 </table>
 
 
-## week 1
+## Week 1
 
 Welcome to Career Week! I'm excited to kick off this journey with you.
 

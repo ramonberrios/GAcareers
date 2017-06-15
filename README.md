@@ -232,15 +232,14 @@ Mock interview preperation
 
 ### Activities
 
-* Group Discussion "How have we found jobs in the past?" and "Who do you know?
-* [Job Boards - Best Practices](./Resume.md)
-* [LinkedIn Advance Searching](./Resume.md)
-* [Boolean Searching](./Resume.md)
+* Group Discussion "Importance of answering soft skills questions" 
+* [Peer to peer practice](./Resume.md)
+* Group Discussion "Let's review responses and provide support/feedback"
 
 
 ### Prep for Next Week
 
-* [Soft Skills Questions](./Resume.md) - Review and answer questions for next week
+* [Soft Skills Questions](./Resume.md) - Revise any responses to questions
 
 
 ### Stretch Activities

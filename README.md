@@ -209,22 +209,38 @@ Mock Outreach - Let's Connect
 * Question - What specific languages/technologies do you want to work with?
 
 
-## Week 8
+## Week 9
 
-Mock Outreach - Let's Connect
+Job Seaching - Where are the jobs?
 
 ### Activities
 
-* Group Discussion "Cold and warm outreach"
-* [Review Sample Cold Outreach](./Resume.md)
-* [Review Sample Warm Outreach](./Resume.md)
-* Create one warm/cold outreach, create one LinkenIn Introduction
+* Group Discussion "How have we found jobs in the past?" and "Who do you know?
+* [Job Boards - Best Practices](./Resume.md)
+* [LinkedIn Advance Searching](./Resume.md)
+* [Boolean Searching](./Resume.md)
 
 
 ### Prep for Next Week
 
-* Question - What's your prefered stack? Full, Front/Back End?
-* Question - What specific languages/technologies do you want to work with?
+* [Soft Skills Questions](./Resume.md) - Review and answer questions for next week
+
+
+## Week 10
+
+Mock interview preperation
+
+### Activities
+
+* Group Discussion "How have we found jobs in the past?" and "Who do you know?
+* [Job Boards - Best Practices](./Resume.md)
+* [LinkedIn Advance Searching](./Resume.md)
+* [Boolean Searching](./Resume.md)
+
+
+### Prep for Next Week
+
+* [Soft Skills Questions](./Resume.md) - Review and answer questions for next week
 
 
 ### Stretch Activities

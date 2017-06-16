@@ -25,6 +25,7 @@ Before we can begin we need to make sure we have some basics set up. This should
 * Create <a href="https://www.linkedin.com">LinkedIn Account</a>
 * Create <a href="https://www.meetup.com/">Meetup Account</a>
 * Create <a href="https://trello.com/">Trello Account</a>
+* Create <a href="https://slack.com/">Slack Account</a>
 * Create <a href="http://creddle.io/">Creddle Account</a> - Optional for resume creation
 
 
@@ -79,7 +80,7 @@ Today we will focus on creating a first draft of your technical resume
 
 ### Activities
 
-* Group discussion on componets of your resume - What to put in, what to leave out
+* Group discussion on components of your resume - What to put in, what to leave out
 * [Chronological vs. Functional](./Resume.md)
 * [Review Sample Resumes](./LinkedIn.md)
 * [Input Story into Resume, LinkedIn, Cover Letter, In Person Pitch](./LinkedIn.md)
@@ -205,13 +206,13 @@ Mock Outreach - Let's Connect
 
 ### Prep for Next Week
 
-* Question - What's your prefered stack? Full, Front/Back End?
+* Question - What's your preferred stack? Full, Front/Back End?
 * Question - What specific languages/technologies do you want to work with?
 
 
 ## Week 9
 
-Job Seaching - Where are the jobs?
+Job Searching - Where are the jobs?
 
 ### Activities
 
@@ -228,7 +229,7 @@ Job Seaching - Where are the jobs?
 
 ## Week 10
 
-Mock interview preperation
+Mock interview preparation
 
 ### Activities
 
